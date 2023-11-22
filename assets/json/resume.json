@@ -1,28 +1,28 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Sheng Yao",
+    "label": "Ph.D. Student in Computer Science and Engineering",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "",
+    "phone": "",
+    "url": "https://realShengYao.github.io/",
+    "summary": "",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "",
+      "postalCode": "",
+      "city": "Clear Water Bay",
+      "countryCode": "HK",
+      "region": "Kwoloon"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "",
+        "username": "",
+        "url": ""
       }
     ]
   },
-  "work": [
+  "_work": [
     {
       "name": "Institute for Advanced Study, Princeton University",
       "position": "Professor of Theoretical Physics",
@@ -38,32 +38,70 @@
   "volunteer": [],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
+      "institution": "The Hong Kong University of Science and Technology",
+      "url": "https://hkust.edu.hk/",
+      "area": "Advised by Prof. Wei Wang",
+      "studyType": "Ph.D. Computer Science and Engineering",
+      "startDate": "2024",
+      "endDate": "Now",
       "score": "",
-      "courses": [
-        "Theory of Relativity"
+      "_courses": [
+        ""
       ]
+    },
+    {
+      "institution": "The Ohio State University",
+      "url": "https://www.osu.edu/",
+      "area": "Magna Cum Laude",
+      "studyType": "B.S. Computer Science and Engineering",
+      "startDate": "2019",
+      "endDate": "2022",
+      "_score": "Magna Cum Laude",
+      "_courses": [
+        ""
+      ]
+    }
+  ],
+  "research": [
+    {
+      "name": "Institute of Parallel and Distributed Systems, Shanghai Jiao Tong University",
+      "position": "Research Assistant",
+      "_url": "",
+      "startDate": "23/02",
+      "endDate": "23/12",
+      "summary": "Advised by Prof. Zhaoguo Wang"
+    },
+    {
+      "name": "Northeastern University",
+      "position": "Research Assistant",
+      "_url": "",
+      "startDate": "22/09",
+      "endDate": "22/12",
+      "summary": "Advised by Prof. Cheng Tan"
+    },
+    {
+      "name": "The University of Hong Kong",
+      "position": "HKU CS Summer Research Internship Programme 2022",
+      "_url": "",
+      "startDate": "22/07",
+      "endDate": "22/09",
+      "summary": ""
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "The Ganobcik Family/Genesis Endowed Scholarship Award",
+      "date": "2022",
+      "awarder": "Department of Computer Science and Engineering, The Ohio State University",
+      "_summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
     }
   ],
   "certificates": [],
   "publications": [],
   "skills": [],
-  "languages": [
+  "_languages": [
     {
-      "language": "German",
+      "language": "Chinese",
       "fluency": "Native speaker"
     },
     {
