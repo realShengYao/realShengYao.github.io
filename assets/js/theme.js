@@ -8,7 +8,6 @@ let toggleTheme = (theme) => {
   }
 };
 
-
 let setTheme = (theme) => {
   transTheme();
   setHighlight(theme);
@@ -61,7 +60,6 @@ let setTheme = (theme) => {
   }
 };
 
-
 let setHighlight = (theme) => {
   if (theme == "dark") {
     document.getElementById("highlight_theme_light").media = "none";
@@ -71,7 +69,6 @@ let setHighlight = (theme) => {
     document.getElementById("highlight_theme_light").media = "";
   }
 };
-
 
 let setGiscusTheme = (theme) => {
   function sendMessage(message) {
@@ -136,7 +133,6 @@ let transTheme = () => {
     document.documentElement.classList.remove("transition");
   }, 500);
 };
-
 
 let initTheme = (theme) => {
   if (theme == null || theme == "null") {
