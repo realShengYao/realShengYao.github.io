@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Sheng Yao",
-    "label": "Ph.D. Student in Computer Science and Engineering",
+    "label": "",
     "image": "",
     "email": "",
     "phone": "",
@@ -71,7 +71,7 @@
       ]
     }
   ],
-  "research": [
+  "internship": [
     {
       "name": "Institute of Parallel and Distributed Systems, Shanghai Jiao Tong University",
       "position": "Research Assistant",
