@@ -28,6 +28,10 @@ I received my B.S. in Computer Science and Engineering in <a href='https://www.o
 
 I have broad research interests in **distributed system**, **cloud computing**, and other related stuff.
 
+Feel free to drop me an email for any potential collaboration. ^_^
+
+Email: sheng [dot] yao [at] connect [dot] ust [dot] hk
+
 [//]: # (Write your biography here. Tell the world about yourself. Link to your favorite [subreddit]&#40;http://reddit.com&#41;. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.)
 
 [//]: # ()
