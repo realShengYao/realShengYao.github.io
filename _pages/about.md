@@ -24,7 +24,7 @@ Before that, I spent a wonderful gap year as a Research Assistant at <a href='ht
 
 I enjoyed a three-month research advised by Prof. <a href='https://naizhengtan.github.io/'>Cheng Tan</a> from Northeastern University in 2022.
 
-I received my B.S. in Computer Science and Engineering in <a href='https://www.osu.edu/'>The Ohio State University</a>. Once a Buckeye, Always a Buckeye.
+I received my B.S. in Computer Science and Engineering in <a href='https://www.osu.edu/'>The Ohio State University</a>. Once a Buckeye, Always a Buckeye. I received The Ganobcik Family/Genesis Endowed Scholarship Award during my undergraduate.
 
 I have broad research interests in **distributed system**, **cloud computing**, and other related stuff.
 
