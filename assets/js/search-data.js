@@ -25,6 +25,9 @@ ninja.data = [{
           section: "News",},{id: "news-i-will-serve-as-a-member-of-sigmod-24-ari-committee",
           title: 'I will serve as a member of SIGMOD’24 ARI Committee.',
           description: "",
+          section: "News",},{id: "news-i-will-serve-as-a-member-of-mlsys-2025-ae-committee",
+          title: 'I will serve as a member of MLSys 2025 AE Committee.',
+          description: "",
           section: "News",},{
         id: 'social-scholar',
         title: 'Google Scholar',
