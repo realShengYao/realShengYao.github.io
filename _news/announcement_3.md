@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I will serve as a member of **SIGMOD'24 ARI Committee**.
+I will serve as a member of **SIGMOD '24 ARI Committee**.
