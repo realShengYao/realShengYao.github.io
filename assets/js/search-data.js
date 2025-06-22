@@ -34,6 +34,9 @@ ninja.data = [{
           section: "News",},{id: "news-i-will-serve-as-a-member-of-atc-25-ae-committee",
           title: 'I will serve as a member of ATC ‘25 AE Committee.',
           description: "",
+          section: "News",},{id: "news-i-will-serve-as-a-member-of-sigmod-25-ari-committee",
+          title: 'I will serve as a member of SIGMOD ‘25 ARI Committee.',
+          description: "",
           section: "News",},{
         id: 'social-scholar',
         title: 'Google Scholar',
