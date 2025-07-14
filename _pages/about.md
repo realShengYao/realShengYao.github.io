@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-My name is Sheng Yao. I'm a Computer Science and Engineering Ph.D. student at <a href='https://hkust.edu.hk/'>The Hong Kong University of Science and Technology</a> (HKUST). I'm advised by Prof. <a href='https://www.cse.ust.hk/~weiwa/'>Wei Wang</a>.
+My name is Sheng Yao. I'm a Computer Science and Engineering Ph.D. student at <a href='https://hkust.edu.hk/'>The Hong Kong University of Science and Technology</a> (HKUST). I'm fortunate to be advised by Prof. <a href='https://www.cse.ust.hk/~weiwa/'>Wei Wang</a>.
 
 Before that, I spent a wonderful gap year as a Research Assistant at <a href='https://ipads.se.sjtu.edu.cn/'>Institute of Parallel and Distributed Systems</a> (IPADS) in Shanghai Jiao Tong University, advised by Prof. <a href='https://ipads.se.sjtu.edu.cn/pub/members/zhaoguo_wang'>Zhaoguo Wang</a>.
 
@@ -28,9 +28,20 @@ I received my B.S. in Computer Science and Engineering in <a href='https://www.o
 
 I have broad research interests in **distributed system**, **cloud computing**, and other related stuff.
 
+I'm currently a Research Intern at Alibaba Cloud.
+
 Feel free to drop me an email for any potential collaboration. ^_^
 
 Email: sheng [dot] yao [at] connect [dot] ust [dot] hk
+
+Professional Services: 
+- SIGMOD '24, '25 ARI Committee
+- MLSys 2025 AE Committee
+- OSDI '25 AE Committee
+- ATC '25 AE Committee
+
+Teaching:
+- COMP 1021, HKUST, 2024 Fall, Teaching Assistant
 
 [//]: # (Write your biography here. Tell the world about yourself. Link to your favorite [subreddit]&#40;http://reddit.com&#41;. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.)
 
