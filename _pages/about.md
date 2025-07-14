@@ -28,7 +28,7 @@ I received my B.S. in Computer Science and Engineering in <a href='https://www.o
 
 I have broad research interests in **distributed system**, **cloud computing**, and other related stuff.
 
-I'm currently a Research Intern at Alibaba Cloud.
+I'm currently a **Research Intern** at **Alibaba Cloud**.
 
 Feel free to drop me an email for any potential collaboration. ^_^
 
