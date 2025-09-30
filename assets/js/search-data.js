@@ -17,7 +17,7 @@ ninja.data = [{
             window.location.href = "/publications/";
           },
         },{id: "news-webridge-accpeted-by-sigmod-24",
-          title: 'WeBridge accpeted by SIGMOD’24.',
+          title: 'WeBridge accpeted by SIGMOD ‘24.',
           description: "",
           section: "News",},{id: "news-research-intern-at-alibaba-cloud",
           title: 'Research Intern at Alibaba Cloud.',
@@ -36,6 +36,9 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-i-will-serve-as-a-member-of-sigmod-25-ari-committee",
           title: 'I will serve as a member of SIGMOD ‘25 ARI Committee.',
+          description: "",
+          section: "News",},{id: "news-zipbatch-accpeted-by-socc-25",
+          title: 'ZipBatch accpeted by SOCC ‘25.',
           description: "",
           section: "News",},{
         id: 'social-scholar',
