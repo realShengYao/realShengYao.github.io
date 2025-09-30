@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-My name is Sheng Yao. I'm a Computer Science and Engineering Ph.D. student at <a href='https://hkust.edu.hk/'>The Hong Kong University of Science and Technology</a> (HKUST). I'm fortunate to be advised by Prof. <a href='https://www.cse.ust.hk/~weiwa/'>Wei Wang</a>.
+My name is Sheng Yao. I'm a Computer Science and Engineering Ph.D. Candidate at <a href='https://hkust.edu.hk/'>The Hong Kong University of Science and Technology</a> (HKUST). I'm fortunate to be advised by Prof. <a href='https://www.cse.ust.hk/~weiwa/'>Wei Wang</a>.
 
 Before that, I spent a wonderful gap year as a Research Assistant at <a href='https://ipads.se.sjtu.edu.cn/'>Institute of Parallel and Distributed Systems</a> (IPADS) in Shanghai Jiao Tong University, advised by Prof. <a href='https://ipads.se.sjtu.edu.cn/pub/members/zhaoguo_wang'>Zhaoguo Wang</a>.
 

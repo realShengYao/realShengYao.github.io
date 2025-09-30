@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-**WeBridge** accpeted by **SIGMOD'24**.
+**WeBridge** accpeted by **SIGMOD '24**.
