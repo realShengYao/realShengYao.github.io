@@ -35,10 +35,11 @@ Feel free to drop me an email for any potential collaboration. ^_^
 Email: sheng [dot] yao [at] connect [dot] ust [dot] hk
 
 Professional Services: 
-- SIGMOD '24, '25 ARI Committee
-- MLSys 2025 AE Committee
+- NSDI '26 AE Committee
 - OSDI '25 AE Committee
 - ATC '25 AE Committee
+- MLSys 2025 AE Committee
+- SIGMOD '24, '25 ARI Committee
 
 Teaching:
 - COMP 1021, HKUST, 2024 Fall, Teaching Assistant
