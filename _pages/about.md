@@ -36,6 +36,7 @@ Email: sheng [dot] yao [at] connect [dot] ust [dot] hk
 
 Professional Services: 
 - NSDI '26 AE Committee
+- HPCA '26 AE Committee
 - OSDI '25 AE Committee
 - ATC '25 AE Committee
 - MLSys 2025 AE Committee
