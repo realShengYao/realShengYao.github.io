@@ -5,11 +5,16 @@
 @article{ZipBatch,
   abbr = {SoCC},
   author = {Yu, Haoxuan and Yao, Sheng and Wang, Wei},
-  journal = {in the Proceedings of ACM Symposium on Cloud Computing},
+  abstract = {GPU multiplexing is a widely-adopted strategy in GPU clusters for improving overall throughput and lowering the total cost of ownership. To mitigate inter-task interference in compute power and memory bandwidth on multiplexed GPUs, existing techniques divide a GPU into instances with limited predefined rigid configurations. Low utilization arises from the mismatch between heterogeneous burstiness and immutable resource configurations: 1) bursty inference traffic forces the scheduler to launch underfilled batches that cannot saturate the instance; 2) bursty kernel resource utilization leads to bubbles in compute power and memory bandwidth.
+This paper presents ZipBatch, a multi-tenant model serving system with elastic fine-grained GPU resource provisioning. First, ZipBatch launches dynamic batches with right-sized resource reservations to reduce macroscopic model-level over-provisioning while decreasing queuing time. Second, by observing that kernels exhibit imbalanced and inconsistent utilization of resources, we develop a prediction-based dual-dimensional regulator that allocates right-sized compute power and memory bandwidth in real time to suppress microscopic resource underutilization. Compared with state-of-the-art solutions, our experimental results show that ZipBatch achieves up to 60.84% reduction in average latency while increasing total throughput by 71.27%.},
+  journal = {in the Proceedings of the 2025 ACM Symposium on Cloud Computing},
   number = {},
   title = {ZipBatch: Multi-Tenant GPU Batching with Dual-Resource Regulation},
   volume = {},
+  numpages={240 - 254},
   month = {November},
+  doi = {10.1145/3772052.3772229},
+  pdf = {https://dl.acm.org/doi/10.1145/3772052.3772229},
   year = {2025},
   selected={true}
 }
