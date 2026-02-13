@@ -39,7 +39,7 @@ Professional Services:
 - HPCA '26 AE Committee
 - OSDI '25 AE Committee
 - ATC '25 AE Committee
-- MLSys 2025 AE Committee
+- MLSys '25 AE Committee
 - SIGMOD '24, '25 ARI Committee
 
 Teaching:
