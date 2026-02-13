@@ -46,6 +46,9 @@ ninja.data = [{
           section: "News",},{id: "news-i-will-serve-as-a-member-of-nsdi-26-ae-committee",
           title: 'I will serve as a member of NSDI ‘26 AE Committee.',
           description: "",
+          section: "News",},{id: "news-faascale-accepted-by-mlsys-26",
+          title: 'FaaScale accepted by MLSys ‘26.',
+          description: "",
           section: "News",},{
         id: 'social-scholar',
         title: 'Google Scholar',
