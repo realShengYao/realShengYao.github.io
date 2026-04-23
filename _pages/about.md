@@ -26,7 +26,7 @@ I enjoyed a three-month research advised by Prof. <a href='https://naizhengtan.g
 
 I received my B.S. in Computer Science and Engineering in <a href='https://www.osu.edu/'>The Ohio State University</a>. Once a Buckeye, Always a Buckeye. I received The Ganobcik Family/Genesis Endowed Scholarship Award during my undergraduate.
 
-I have broad research interests in **distributed system**, **cloud computing**, and other related stuff.
+I have broad research interests in **distributed machine learning systems (MLSys)**, **AI Infrastructure**, and other related stuff.
 
 I'm currently a **Research Intern** at **Alibaba Cloud**.
 
