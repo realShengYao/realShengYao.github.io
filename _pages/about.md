@@ -35,6 +35,8 @@ Feel free to drop me an email for any potential collaboration. ^_^
 Email: sheng [dot] yao [at] connect [dot] ust [dot] hk
 
 Professional Services: 
+- FAST '27 AE Committee
+- CAIS '26 AE Committee
 - NSDI '26 AE Committee
 - HPCA '26 AE Committee
 - OSDI '25 AE Committee
