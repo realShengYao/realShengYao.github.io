@@ -45,13 +45,9 @@ Email: sheng [dot] yao [at] connect [dot] ust [dot] hk
 
 Professional Services: 
 - FAST '27 AE Committee
-- CAIS '26 AE Committee
-- NSDI '26 AE Committee
-- HPCA '26 AE Committee
-- OSDI '25 AE Committee
-- ATC '25 AE Committee
-- MLSys '25 AE Committee
-- SIGMOD '24, '25 ARI Committee
+- SOSP, NSDI, HPCA, CAIS '26 AE Committee
+- OSDI, ATC, MLSys, SIGMOD '25 AE Committee
+- SIGMOD '24 ARI Committee
 
 Teaching:
 - COMP 4651, HKUST, 2026 Spring, Teaching Assistant
