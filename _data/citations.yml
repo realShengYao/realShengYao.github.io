@@ -1,20 +1,28 @@
 metadata:
-  last_updated: '2026-07-27'
+  last_updated: '2026-08-24'
 papers:
   bEtLSugAAAAJ:3fE2CSJIrl8C:
-    citations: 0
+    citations: 1
     title: 'ZipBatch: Multi-Tenant GPU Batching with Dual-Resource Regulation'
     year: '2025'
   bEtLSugAAAAJ:KlAtU1dfN6UC:
+    citations: 1
+    title: 'Heterogeneity at Hyperscale: Characterization and Scheduling of Large Production {AI} Clusters at Alibaba (Operational Systems)'
+    year: '2026'
+  bEtLSugAAAAJ:ULOm3_A8WrAC:
     citations: 0
-    title: 'Heterogeneity at Hyperscale: Characterization and Scheduling of Large Production AI Clusters at Alibaba (Operational Systems)'
+    title: 'ServerlessT2I: Efficient Text-to-Image Workflow Serving on a Serverless Platform'
+    year: '2026'
+  bEtLSugAAAAJ:YOwf2qJgpHMC:
+    citations: 0
+    title: 'From LLM Inference to Agentic Workloads: Characterization and Implications for Serving Systems'
     year: '2026'
   bEtLSugAAAAJ:Zph67rFs4hoC:
     citations: 0
     title: 'Reproducibility Report for ACM SIGMOD 2025 Paper:''H-Rocks: CPU-GPU accelerated Heterogeneous RocksDB on Persistent Memory'''
     year: '2025'
   bEtLSugAAAAJ:kNdYIx-mwKoC:
-    citations: 5
+    citations: 6
     title: 'FaaScale: Unlocking fast LLM scaling for serverless inference'
     year: '2026'
   bEtLSugAAAAJ:u5HHmVD_uO8C:
