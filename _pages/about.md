@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD Student at HKUST
+subtitle: PhD Candidate at HKUST
 
 profile:
   align: right
@@ -45,11 +45,12 @@ Email: sheng [dot] yao [at] connect [dot] ust [dot] hk
 
 Professional Services: 
 - FAST '27 AE Committee
-- SOSP, NSDI, HPCA, CAIS '26 AE Committee
+- SOSP, SIGCOMM, NSDI, HPCA, CAIS '26 AE Committee
 - OSDI, ATC, MLSys, SIGMOD '25 AE Committee
 - SIGMOD '24 ARI Committee
 
 Teaching:
+- COMP 3511, HKUST, 2026 Fall, Teaching Assistant
 - COMP 4651, HKUST, 2026 Spring, Teaching Assistant
 - COMP 1021, HKUST, 2024 Fall, Teaching Assistant
 
