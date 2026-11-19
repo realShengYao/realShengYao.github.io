@@ -4,9 +4,12 @@
   abbr = {ATC},
   author = {Chen*, Dong and Zhou*, Yukun and Yao*, Sheng and Chen, Ruichuan and Yuan, Binhang and Wang, Shuai and Wang, Luping and Huang, Cheng and Yang, Guodong and Zhang, Liping and Wang, Wei},
   journal = {in the Proceedings of 2026 ACM SIGOPS Annual Technical Conference},
+  abstract = {Online LLM serving is increasingly constrained by GPU memory capacity during decode. In length-skewed workloads, a small fraction of long requests keeps large key-value (KV) caches resident across many decode steps, exhausting GPU high-bandwidth memory (HBM), throttling admission, and reducing goodput for the short-request majority. At the same time, GPU servers provision substantial CPU and DRAM resources, and recent Intel CPUs add Advanced Matrix Extensions (AMX) for matrix-heavy kernels. The challenge is to use these host resources without placing CPU work on the per-token GPU critical path.
+We present Chorus, a GPU–CPU cooperative serving system that uses AMX-equipped CPUs as a second decode lane for long requests with persistent KV state. Chorus keeps prefill and short-request decode on GPUs, offloads selected long-request decode once to distributed AMX CPU groups, and releases the corresponding GPU KV pages so the GPU lane can admit more short requests. To satisfy online service level objectives (SLOs), Chorus combines pressure-aware offload admission, tensor-parallel AMX decode that aggregates CPU compute and memory bandwidth, and AMX kernels specialized for small, mixed-length decode batches. Across popular LLMs and production-derived workloads, Chorus achieves the highest SLO-attaining goodput among baselines, improving peak goodput over SGLang by up to 1.26 ×. At the same offered load, Chorus delivers 1.3–11.4 × SGLang’s goodput when GPU-only serving enters time-to-first-token (TTFT) collapse, and improves over CPU-offload baselines by up to 4.3 ×.},
   title = {Chorus: GPU-CPU Cooperative LLM Serving for Length-Skewed Decode},
   month = {November},
   year = {2026},
+  pdf = {https://dl.acm.org/doi/10.1145/3828523.3857065},
   selected={true}
 }
 
